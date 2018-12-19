@@ -1,3 +1,4 @@
+# coding: utf8
 usage = "Usage: lesspass SITE [LOGIN] [MASTER_PASSWORD] [OPTIONS]"
 
 
